@@ -6,4 +6,4 @@
  - Website front end: HTML,CSS,ReactJS, JavaScript
  - Website back end: PHP, Java, C#
  - Model: MVC
- - Data : MYSQL
+ - Data : MYSQL, POSTGRESQL
