@@ -4,6 +4,6 @@
  - So you can contact me with email : khoiminhdoan1504@gmai.com
  - Detail of my programing language is: PHP,Java,C++
  - Website front end: HTML,CSS,ReactJS, JavaScript
- - Website back end: PHP, Java, C#
+ - Website back end: PHP, Java, C#, NodeJS
  - Model: MVC
  - Data : MYSQL, POSTGRESQL
