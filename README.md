@@ -14,7 +14,9 @@ I work with a variety of programming languages to build robust and efficient app
 - **C++** – High-performance applications
 ### 📊 Language Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Izzy1504&layout=compact&theme=radical)
+## 📈 GitHub Stats
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Izzy1504&show_icons=true&hide_title=true&hide=prs&theme=radical)
 ### 🌐 **Web Development**:
 I specialize in building interactive websites using modern web technologies:
 - **Frontend**: HTML, CSS, ReactJS, JavaScript
@@ -43,9 +45,7 @@ Here are some of my featured repositories that showcase my work:
 ### [Project 3: [Cake-shop](https://github.com/Izzy1504/CAKE_SHOP)]
 - **Description**: An e-commerce shop for cakes and desserts Yeh actualyy UI based on - Github - @sn-tin But me and my team develope the function and database, back end ...
 - **Technologies**: ReactJS,NodeJS,css,java,tailwindcss
-## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Izzy1504&show_icons=true&hide_title=true&hide=prs&theme=radical)
 
 ---
 
