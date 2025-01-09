@@ -61,6 +61,6 @@ Here are some of my featured repositories that showcase my work:
 ## 🌱 Let's Connect!
 Feel free to reach out to discuss projects or collaborations. I'm always open to new opportunities!
 
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [Twitter](https://twitter.com/yourusername)
+- [LinkedIn](https://www.linkedin.com/in/khôi-minh-đoàn-undefined-2a03a52a4)
+- [Zalo](https://zalo.me/0564695640 )
 - [Email](mailto:khoiminhdoan1504@gmai.com)
