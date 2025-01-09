@@ -40,7 +40,7 @@ Here are some of my featured repositories that showcase my work:
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&hide=prs)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Izzy1504&show_icons=true&hide_title=true&hide=prs&theme=radical)
 
 ---
 
