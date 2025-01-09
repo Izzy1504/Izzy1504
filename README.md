@@ -30,11 +30,11 @@ I work with relational databases to manage and query data:
 
 Here are some of my featured repositories that showcase my work:
 
-### [Project 1: [Website Development]((https://github.com/Izzy1504/QUANRANTINE_CAPSITE_19)]
+### [Project 1: [Website Development](https://github.com/Izzy1504/QUANRANTINE_CAPSITE_19)]
 - **Description**: A full-stack website built with HTML, CSS, and PHP, incorporating an MVC structure for easier maintenance.
 - **Technologies**: PHP, MySQL, HTML, CSS, JavaScript
 
-### [Project 2: [Music web]((https://github.com/Izzy1504/NOTIFY_WEB)]
+### [Project 2: [Music web](https://github.com/Izzy1504/NOTIFY_WEB)]
 - **Description**: A web illustrates the music page and load the audio from youtube to hear without video
 - **Technologies**: ReactJS,NodeJS,css
 
