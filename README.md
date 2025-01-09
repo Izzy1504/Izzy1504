@@ -16,7 +16,7 @@ I work with a variety of programming languages to build robust and efficient app
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Izzy1504&show_icons=true&hide_title=true&hide=prs&theme=radical" alt="GitHub Stats" height="150px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Izzy1504&layout=compact&theme=radical" alt="Top Languages" height="150px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Izzy1504&layout=compact&theme=radical" alt="Top Languages" height="150px" margin-left = "20px" />
 </div>
 
 I specialize in building interactive websites using modern web technologies:
