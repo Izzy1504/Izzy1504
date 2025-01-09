@@ -12,6 +12,8 @@ I work with a variety of programming languages to build robust and efficient app
 - **PHP** – Server-side scripting
 - **Java** – For enterprise-level applications
 - **C++** – High-performance applications
+### 📊 Language Stats
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Izzy1504&layout=compact&theme=radical)
 
 ### 🌐 **Web Development**:
 I specialize in building interactive websites using modern web technologies:
