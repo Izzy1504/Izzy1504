@@ -30,14 +30,17 @@ I work with relational databases to manage and query data:
 
 Here are some of my featured repositories that showcase my work:
 
-### [Project 1: Website Development](https://github.com/yourusername/project1)
+### [Project 1: [Website Development]((https://github.com/Izzy1504/QUANRANTINE_CAPSITE_19)]
 - **Description**: A full-stack website built with HTML, CSS, and PHP, incorporating an MVC structure for easier maintenance.
 - **Technologies**: PHP, MySQL, HTML, CSS, JavaScript
 
-### [Project 2: Java App for Task Management](https://github.com/yourusername/project2)
-- **Description**: A Java application designed for managing personal tasks with a user-friendly interface.
-- **Technologies**: Java, MySQL
+### [Project 2: [Music web]((https://github.com/Izzy1504/NOTIFY_WEB)]
+- **Description**: A web illustrates the music page and load the audio from youtube to hear without video
+- **Technologies**: ReactJS,NodeJS,css
 
+### [Project 3: [Cake-shop](https://github.com/Izzy1504/CAKE_SHOP)]
+- **Description**: An e-commerce shop for cakes and desserts Yeh actualyy UI based on - Github - @sn-tin But me and my team develope the function and database, back end ...
+- **Technologies**: ReactJS,NodeJS,css,java,tailwindcss
 ## 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Izzy1504&show_icons=true&hide_title=true&hide=prs&theme=radical)
