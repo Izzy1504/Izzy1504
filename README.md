@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm [Minh Khôi] 👋
 
 Welcome to my GitHub profile! I'm passionate about **web development** and creating interactive websites through coding.
 
